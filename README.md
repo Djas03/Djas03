@@ -6,8 +6,8 @@
 ⚛️ Backend and software developer.<br>
 
 <div>
-  <!--<a href="https://github.com/Djas03">-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djas03&layout=compact&langs_count=9&theme=tokyonight"/>
+  <a href="https://github.com/Djas03">
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djas03&layout=compact&langs_count=9&theme=tokyonight"/>-->
 
 </div>
 
