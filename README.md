@@ -13,8 +13,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
+    <img align="center" alt="csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="spring" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
     <img align="center" alt="java" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
     <img align="center" alt="nestjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
