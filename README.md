@@ -2,7 +2,6 @@
 
 ⚛️ I'm a computer science student.<br> 
 ⚛️ Passionate about programming, science and technology.<br>
-⚛️ Member/scholarship holder of the research group in Computational Numerical Modeling and Simulation at the Federal University of Mato Grosso (UFMT).<br>
 ⚛️ Backend and software developer.<br>
 
 <div>
